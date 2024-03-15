@@ -1,26 +1,14 @@
 # Driver Station App
 
-_Note: more complete configuration and usage documentation is TBD_
-
-## Stack
-
-* Electron
-* TypeScript
-* Svelte
-* PostCSS
-* Rollup
-* Node
-* pnpm
-
 ## Dependencies
 
-* Volta: <https://docs.volta.sh/guide/getting-started>
+* Volta: <https://docs.volta.sh/guide/getting-started> (Install on Mac w/ Homebrew cask: `brew install volta`)
 
 ## Install / Configuration
 
 * `volta install node`
 * `volta install pnpm`
-* `pnpm install`
+* `volta run pnpm install`
 
 ## Build / Run
 
